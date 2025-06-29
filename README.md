@@ -48,7 +48,8 @@ For database schema creation, data loading, and complex analytical queries.
 SQL_Queries/: Contains all SQL scripts used for data loading, cleaning, and analytical queries (Q1-Q8).
 
 **Power_BI_Dashboard/:**
-Placeholder for Power BI .pbix file (if you choose to upload it).
+Placeholder for Power BI .pbix file.
+
 
 **Data_Cleanup_Notes.md:**
 (Optional) A file detailing the specific data cleaning steps and logic.
@@ -67,4 +68,5 @@ Translating analytical findings into clear, visual, and impactful narratives for
 **Strategic Thinking:**
 Connecting data insights directly to business objectives like expansion and customer satisfaction.
 
-
+**Certificate**
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_wg2z4fkWmpP3j4RSn_1745118757123_completion_certificate.pdf
