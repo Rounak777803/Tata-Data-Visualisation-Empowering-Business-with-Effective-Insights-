@@ -1,4 +1,4 @@
-# Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights-
+# Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights
 This repository showcases the work completed as part of the Tata Data Visualisation Virtual Internship Program on the Forage platform. This simulation provided hands-on experience in a real-world business intelligence scenario, focusing on data cleanup, SQL-based analysis, and interactive dashboard creation to address key business questions from a mock online retail store.
 
 #**📊 Project Overview:**#
