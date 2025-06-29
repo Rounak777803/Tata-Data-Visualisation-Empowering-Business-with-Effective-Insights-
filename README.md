@@ -60,11 +60,11 @@ This virtual internship significantly enhanced my skills in:
 From raw data to actionable insights and presentation.
 **Robust Data Cleaning:**
 Handling various real-world data inconsistencies.
+**Advanced SQL for Business Intelligence:**
+Utilizing functions and CTEs for complex analytical questions.
+**Effective Data Storytelling:**
+Translating analytical findings into clear, visual, and impactful narratives for non-technical stakeholders.
+**Strategic Thinking:**
+Connecting data insights directly to business objectives like expansion and customer satisfaction.
 
-Advanced SQL for Business Intelligence: Utilizing functions and CTEs for complex analytical questions.
 
-Effective Data Storytelling: Translating analytical findings into clear, visual, and impactful narratives for non-technical stakeholders.
-
-Strategic Thinking: Connecting data insights directly to business objectives like expansion and customer satisfaction.
-
-Disclaimer: This project was completed as part of a virtual job simulation on the Forage platform. All data and scenarios are simulated and do not represent actual company operations or performance.
