@@ -44,17 +44,6 @@ For creating interactive dashboards and visualizations.
 **SQL (DML/DDL):**
 For database schema creation, data loading, and complex analytical queries.
 
-**📂 Repository Contents**
-SQL_Queries/: Contains all SQL scripts used for data loading, cleaning, and analytical queries (Q1-Q8).
-
-**Power_BI_Dashboard/:**
-Placeholder for Power BI .pbix file.
-
-
-**Data_Cleanup_Notes.md:**
-(Optional) A file detailing the specific data cleaning steps and logic.
-
-
 **💡 Key Learnings & Insights Gained**
 This virtual internship significantly enhanced my skills in:
 **End-to-End Data Lifecycle:**
